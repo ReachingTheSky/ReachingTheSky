@@ -1,0 +1,12 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2023/11/27
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.bilibili.com
+*.douyu.com
+*.baidu.com
+*.52pojie.cn
+*.qq.com
+*.speedtest.cn
+*.zhihu.com
